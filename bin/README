@@ -1,0 +1,5 @@
+script usage:
+./java_build.sh <ProjectName> <environment>
+
+Example
+./java_build.sh RecurringWS sandbox
